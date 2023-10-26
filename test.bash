@@ -2,11 +2,11 @@
 # SPDX-FileCopyrightText: 2023 Haruki Matsushita
 # SPDX-License-Identifier: BSD-3-Clause
 
-
- ng () {
+ng () {
       echo NG at Line $1
       res=1
 }
+
 　
 res=0
 　
