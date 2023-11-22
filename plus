@@ -9,7 +9,7 @@ ans = 0
 for line in sys.stdin:
     try:
         ans += int(line)
-    except:
+    except ValueError:
         ans += float(line)
 
 
