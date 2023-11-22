@@ -22,6 +22,8 @@ print(ans)
 
 if ans % 2 == 0:
     print("even number")
+    print("value divided by 2", ans/2)
+
 else:
     print("odd number")
 
