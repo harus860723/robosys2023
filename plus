@@ -13,6 +13,7 @@ for line in sys.stdin:
         try:
             ans += float(line)
         except ValueError:
+            print("Eroor")
 
 
 
