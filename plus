@@ -12,6 +12,8 @@ for line in sys.stdin:
     except ValueError:
         try:
             ans += float(line)
+        except ValueError:
+
 
 
 print(ans)
