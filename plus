@@ -10,7 +10,8 @@ for line in sys.stdin:
     try:
         ans += int(line)
     except ValueError:
-        ans += float(line)
+        try:
+            ans += float(line)
 
 
 print(ans)
