@@ -1,4 +1,4 @@
-#!i/usr/bin/python3
+#!/usr/bin/python3
 # SPDX-FileCopyrightText: 2023 Haruki Matsushita
 # SPDX-License-Identifier: BSD-3-Clause
 
@@ -15,7 +15,7 @@ for line in sys.stdin:
 
 print(ans)
 
-if aus % 2 == 0:
+if ans % 2 == 0:
     print("even number")
 else:
     print("odd number")
