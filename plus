@@ -14,7 +14,7 @@ for line in sys.stdin:
             
 
 
-print(ans)
+print(str(ans))
 
 
 if ans % 2 == 0:
