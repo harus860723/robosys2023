@@ -9,12 +9,8 @@ ans = 0
 for line in sys.stdin:
     try:
         ans += int(line)
-    except ValueError:
-        try:
-            ans += float(line)
-        except ValueError:
-            print("Eroor")
-            sys.exit(1)
+    except:
+        ans += float(line)
             
 
 
