@@ -16,3 +16,8 @@ for line in sys.stdin:
 
 print(ans)
 
+
+if ans % 2 == 0:
+    print("even number")
+else:
+    print("odd number")
