@@ -18,6 +18,6 @@ print(ans)
 
 
 if ans % 2 == 0:
-    print("even number")
-else:
-    print("odd number")
+                print("even number")
+           else:
+                print("odd number")
