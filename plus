@@ -14,7 +14,7 @@ for line in sys.stdin:
             
 
 
-print(str(ans))
+print("合計値:"+str(ans))
 
 
 if ans % 2 == 0:
