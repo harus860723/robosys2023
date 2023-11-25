@@ -19,5 +19,6 @@ print("合計値:"+str(ans))
 
 if ans % 2 == 0:
     print("even number")
+    print("値を2で割った数:", ans/2)
 else:
     print("odd number")
