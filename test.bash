@@ -28,6 +28,6 @@ out=$(echo | ./plus)
   [ "$?" = 1 ]      || ng ${LINENO}
   [ "${out}" = "" ] || ng ${LINENO}
   　
-[ "$res" = 0 ] && echo OK        # &&（AND記号）は左側が成功すると右側を実行
+[ "$res" = 0 ] && echo OK        
 exit $res
 
