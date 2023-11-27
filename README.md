@@ -13,6 +13,11 @@
 
 ## 使い方
 
+### インストール
+
+* plusコマンドを下のURLからダウンロードする。
+https://github.com/harus860723/robosys2023/blob/main/plus
+
 ### 実行例
 
 seq 5 | ./plus
