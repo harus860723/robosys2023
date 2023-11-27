@@ -16,22 +16,23 @@
 ### インストール
 
 * plusコマンドを下のURLからダウンロードする。
-https://github.com/harus860723/robosys2023/blob/main/plus
+```
+$ git clone https://github.com/harus860723/robosys2023/blob/main/plus
+```
 
 ### 実行例
-
-seq 5 | ./plus
+```
+$ seq 5 | ./plus
+```
 
 ### 実行結果
-
+```
 合計値:15
-odd number
-値に2をかけた数: 30
 
-## 環境
-* Windows 11  
-* Ubuntu 22.04
-* Python 3
+odd number
+
+値に2をかけた数: 30
+```
 
 ## 必要なソフトウェア
 * Python
@@ -44,5 +45,5 @@ odd number
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再領布および使用が許可されます。
 
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-      * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-* © 2023 Haruki Matsushita
+	* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+© 2023 Haruki Matsushita
