@@ -20,4 +20,4 @@ if ans % 2 == 0:
     print("値を2で割った数:", ans/2)
 else:
     print("odd number")
-    print("値に2を掛けた値:", ans*2)
+    print("値に2を掛けた数:", ans*2)

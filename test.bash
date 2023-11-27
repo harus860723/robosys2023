@@ -10,11 +10,15 @@ ng () {
 　
 res=0
 　
-### I/O TEST ###
 out=$(seq 7 |./plus)
 [ "${out}" = "合計値:28
 even number
 値を2で割った数: 14.0" ] || ng ${LINENO}
+
+out=$(seq 5 |./plus)
+[ "${out}" = "合計値:15
+odd number
+値に2を掛けた数: 30" ] || ng ${LINENO}
 　
 [ "$res" = 0 ] && echo OK        # &&（AND記号）は左側が成功すると右側を実行
 exit $res
