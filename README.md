@@ -15,7 +15,7 @@
 
 ### インストール
 
-* plusコマンドを下のURLからダウンロードする。
+* plusコマンドをcloneする。
 ```
 $ git clone https://github.com/harus860723/robosys2023/blob/main/plus
 ```
@@ -28,9 +28,7 @@ $ seq 5 | ./plus
 ### 実行結果
 ```
 合計値:15
-
 odd number
-
 値に2をかけた数: 30
 ```
 
