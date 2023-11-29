@@ -43,7 +43,7 @@ odd number
 ## ライセンス
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再領布および使用が許可されます。
 
-* plusコマンドのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを、本人の許可を得て自身の著作としたものです。
-	* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* このパッケージのコードの一部は、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを、本人の許可を得て自身の著作としたものです。
+	* [ryuichiueda/robosys2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 © 2023 Haruki Matsushita
