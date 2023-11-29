@@ -1,6 +1,6 @@
 # robosys2023
+* 2023年ロボットシステム学で使用したリポジトリ。
 * plusコマンドはロボットシステム学の課題1で機能を追加したコマンド。
-* test.bashは、plusコマンドのテスト。
 
 # plusコマンド
 [![test](https://github.com/harus860723/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/harus860723/robosys2023/actions/workflows/test.yml)
@@ -22,11 +22,15 @@ $ git clone https://github.com/harus860723/robosys2023/blob/main/plus
 ```
 
 ### 実行例
+* コードの実行例を下に示す。
+
 ```
 $ seq 5 | ./plus
 ```
 
 ### 実行結果
+* 実行例の結果を下に示す。
+
 ```
 合計値:15
 odd number
