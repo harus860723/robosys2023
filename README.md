@@ -16,7 +16,7 @@
 
 ### インストール
 
-* plusコマンドをcloneする。
+* robosys2023をcloneする。
 ```
 $ git clone https://github.com/harus860723/robosys2023.git
 ```
