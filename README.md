@@ -18,7 +18,7 @@
 
 * plusコマンドをcloneする。
 ```
-$ git clone https://github.com/harus860723/robosys2023/blob/main/plus
+$ git clone https://github.com/harus860723/robosys2023.git
 ```
 
 ### 実行例
